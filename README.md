@@ -4,6 +4,12 @@ Este repositório contém as soluções dos desafios e projetos práticos desenv
 
 O objetivo deste espaço é registrar minha evolução e consolidação de conhecimentos em conteinerização, infraestrutura de aplicações, orquestração de múltiplos serviços, segurança e ferramentas modernas do ecossistema de containers.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
