@@ -39,15 +39,15 @@ O objetivo deste espaço é registrar minha evolução e consolidação de conhe
 
 Os desafios e estudos estão consolidados e organizados em pastas numeradas por tópicos/módulos. Cada diretório contém sua respectiva aplicação ou laboratório prático.
 
-|  Cap.  | Pasta / Módulo                | Conteúdo Principal                                                                                        |     Status      |
-| :----: | :---------------------------- | :-------------------------------------------------------------------------------------------------------- | :-------------: |
-| **02** | `02-mergulhando-containers`   | Comandos básicos, ciclo de vida, variáveis de ambiente e **Desafio: App Java**[cite: 1]                   | ⏳ Em andamento |
-| **03** | `03-criando-imagens`          | Dockerfiles, argumentos de build, **multi-stage build**, Nginx e **Desafio: multi-stage build**[cite: 2]  |  📅 Planejado   |
-| **04** | `04-explorando-volumes`       | Volumes nomeados, anônimos, Bind Mounts e **Desafio: Transferindo dados entre volumes**[cite: 3]          |  📅 Planejado   |
-| **06** | `06-docker-compose`           | Múltiplos containers, variáveis de ambiente, Health Checks e **Desafio: Docker Compose**[cite: 4]         |  📅 Planejado   |
-| **09** | `09-ambiente-desenvolvimento` | Debug remoto, extensão Container Tools e **Desafio: Criação de um Dev Container**[cite: 5]                |  📅 Planejado   |
-| **10** | `10-segurança-container`      | Análise de vulnerabilidades (Docker Scout/Trivy) e **Desafio: Correção e Assinatura com Cosign**[cite: 6] |  📅 Planejado   |
-| **11** | `11-alem-do-docker`           | Podman, Buildah, Skopeo (Rootless) e **Desafio: Java com Podman rootless**[cite: 7]                       |  📅 Planejado   |
+|  Cap.  | Pasta / Módulo                | Conteúdo Principal                                                                               |     Status      |
+| :----: | :---------------------------- | :----------------------------------------------------------------------------------------------- | :-------------: |
+| **02** | `02-mergulhando-containers`   | Comandos básicos, ciclo de vida, variáveis de ambiente e **Desafio: App Java**                   | ⏳ Em andamento |
+| **03** | `03-criando-imagens`          | Dockerfiles, argumentos de build, **multi-stage build**, Nginx e **Desafio: multi-stage build**  |  📅 Planejado   |
+| **04** | `04-explorando-volumes`       | Volumes nomeados, anônimos, Bind Mounts e **Desafio: Transferindo dados entre volumes**          |  📅 Planejado   |
+| **06** | `06-docker-compose`           | Múltiplos containers, variáveis de ambiente, Health Checks e **Desafio: Docker Compose**         |  📅 Planejado   |
+| **09** | `09-ambiente-desenvolvimento` | Debug remoto, extensão Container Tools e **Desafio: Criação de um Dev Container**                |  📅 Planejado   |
+| **10** | `10-segurança-container`      | Análise de vulnerabilidades (Docker Scout/Trivy) e **Desafio: Correção e Assinatura com Cosign** |  📅 Planejado   |
+| **11** | `11-alem-do-docker`           | Podman, Buildah, Skopeo (Rootless) e **Desafio: Java com Podman rootless**                       |  📅 Planejado   |
 
 ---
 
@@ -55,7 +55,7 @@ Os desafios e estudos estão consolidados e organizados em pastas numeradas por 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/ivanfsilva/idk-imersao-docker.git](https://github.com/ivanfsilva/idk-imersao-docker.git)
+   git clone https://github.com/ivanfsilva/idk-imersao-docker.git
    ```
 2. Navegue até a pasta do módulo/desafio desejado.
 
