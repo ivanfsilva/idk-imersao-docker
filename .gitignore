@@ -1,0 +1,36 @@
+# =========================
+# DOCKER / ORQUESTRAÇÃO
+# =========================
+# Dados persistidos de volumes locais ou bancos de dados em containers
+.docker/
+volumes/
+data/
+db_data/
+mysql_data/
+postgres_data/
+
+# =========================
+# SISTEMA OPERACIONAL / IDEs
+# =========================
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Configurações de IDEs (VS Code e IntelliJ)
+.vscode/
+.idea/
+*.iml
+out/
+target/
+
+# =========================
+# LOGS E AMBIENTE
+# =========================
+# Arquivos de log e variáveis de ambiente sensíveis
+*.log
+.env
+.env.local
